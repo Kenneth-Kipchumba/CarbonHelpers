@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Kiprono\\CarbonHelpers\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "authors": [
         {
@@ -17,7 +20,5 @@
     "require": {
         "php": ">=8.2",
         "nesbot/carbon": "^3"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
