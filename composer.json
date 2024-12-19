@@ -1,0 +1,18 @@
+{
+    "name": "kiprono/carbon-helpers",
+    "description": "A collection of reusable PHP Carbon helper functions.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kiprono\\CarbonHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenneth Kipchumba",
+            "email": "kipchumba.kenneth@ymail.com"
+        }
+    ],
+    "require": {}
+}
