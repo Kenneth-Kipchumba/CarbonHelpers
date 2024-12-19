@@ -3,7 +3,7 @@
 This is collection of reusable PHP Carbon helper functions. Most
 of my PHP applications make use of Carbon (An international PHP extension for DateTime. https://carbon.nesbot.com). Since I have become lazier writing this at the top of every view page where I intend to use Carbon:
 
-   <? php use Carbon\Carbon; ?>
+    use Carbon\Carbon;
 
 Then later on:
 
