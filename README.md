@@ -1,3 +1,8 @@
+## Install Carbon Helpers With Composer
+
+   $ composer require kiprono/carbon-helpers
+
+
 ## About Carbon Helpers
 
 This is collection of reusable PHP Carbon helper functions. Most
@@ -19,7 +24,7 @@ whenever I intend to use Carbon. If you think that makes sense, you are welcome 
 ## Learning Carbon Helpers
 
 If you have you used https://carbon.nesbot.com before, you may not need any guidance. 
-I intend to write documentation for this package as soon as I find time.
+I however, intend to write documentation for this package as soon as I find time.
 
 ## Sponsors
 

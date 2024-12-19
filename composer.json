@@ -14,5 +14,10 @@
             "email": "kipchumba.kenneth@ymail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2",
+        "nesbot/carbon": "^3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
