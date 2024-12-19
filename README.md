@@ -13,9 +13,8 @@ I felt that my quality of life would slightly improve if I would only be just be
 
     <?= diffForHumans($variableHoldingDateHere) ?>
 
-If you think that makes sense, you are welcome to try out this library
 
-
+whenever I intend to use Carbon. If you think that makes sense, you are welcome to try out this library
 
 ## Learning Carbon Helpers
 
